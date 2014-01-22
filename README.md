@@ -1,3 +1,3 @@
 GitSandbox
 ==========
-For playing around with git a little bit.
+For playing around with git a little bit. KB

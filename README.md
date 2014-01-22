@@ -1,5 +1,5 @@
 Simple Git Tutorial
-====
+
 
 git clone SERVER_LINK_GITHUB
 	- copy the repository to your local machine.
@@ -34,4 +34,3 @@ How to add a new files to be tracked:
 2. Add the new file to be tracked	git add .
 3. Commit your changes locally. 	git commit -a -m "I made changes!"
 4. Push these changes to remote 	git push
-

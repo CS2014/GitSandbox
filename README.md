@@ -19,7 +19,7 @@ git add .
 git status
 	- Shows the LOCAL status of your git repo. Let's you know if you've got uncommitted changes or un-added files
 git log
-	- Shows a list of changes made on the server.
+	- Shows a list of the changes made on the server.
 
 --
 
